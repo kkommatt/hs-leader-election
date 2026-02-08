@@ -1,4 +1,4 @@
-**# Hirschberg–Sinclair Leader Election Algorithm
+# Hirschberg–Sinclair Leader Election Algorithm
 
 This repository contains a Python implementation of the **Hirschberg–Sinclair (HS) leader election algorithm** for a distributed system with a **ring topology**.
 
